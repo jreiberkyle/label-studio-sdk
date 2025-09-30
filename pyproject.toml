@@ -1,5 +1,6 @@
 [project]
 name = "label-studio-sdk"
+version = "2.0.10"
 
 [tool.poetry]
 name = "label-studio-sdk"
